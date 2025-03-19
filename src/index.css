@@ -17,7 +17,7 @@ header {
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid #ccc;
-  background: #fafafa;
+  background: #d64141;
 }
 
 main {
@@ -45,4 +45,8 @@ section ul li {
 .content,
 p {
   padding: 1rem 0;
+}
+
+.centered {
+  text-align: center;
 }
